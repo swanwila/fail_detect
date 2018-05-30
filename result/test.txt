@@ -5,3 +5,4 @@ n_estimator 4000 Training MSE: 0.022 Testing MSE: 0.403
 n_estimator 5000 Training MSE: 0.003 Testing MSE: 0.379
 n_estimator 6000 Training MSE: 0.00039960 Testing MSE: 0.37430049
 n_estimator 10000 Training MSE: 0.00000022 Testing MSE: 0.36907478
+n_estimator 1000 Training MSE: 8.92625691 Testing MSE: 8.55074710
